@@ -1,1 +1,0 @@
-# SigmaMusicV2_discord-bot
